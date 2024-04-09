@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "code",
+			"path": "../../code"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../02_number"
+		},
+		{
+			"path": "../3_operator"
+		}
+	],
+	"settings": {}
+}

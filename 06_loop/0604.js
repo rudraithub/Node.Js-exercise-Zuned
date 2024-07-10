@@ -1,3 +1,4 @@
+
 // ## 0604-Write a program to print all odd numbers from 1 to 10 using for loop. 
 
 //  let x = 10

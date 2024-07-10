@@ -1,10 +1,10 @@
-// 11
+// // 11
 
 // for(let i =0; i<= 5; i++){
 //     for (let j = 1; j <= i; j++) {
-//         a+= "*"
+//         j+= "*"
     
 //     }
-//     a +='\n'
+//      j +='\n'
 // }
-// console.log(a);
+// console.log(j);

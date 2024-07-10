@@ -3,7 +3,7 @@
 // let sum = 0;
 
 
-// for (let x = 0; x <= 10; x++) {
+// for (let x = 1; x <= 10; x++) {
 //    sum += x;
+//    console.log(sum)
 // }
-// console.log(sum)
